@@ -1,0 +1,28 @@
+name: Circulo Initiative
+favicon: null
+layout_spectrum: 0.09476993442513049
+typography_spectrum: 0.6141020588111132
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.0681515191681683
+  lightness: 0.8368569624144584
+  saturation: 0.47882238822057843
+  rhythmicContrast: 0.3692656569182873
+purpose: []
